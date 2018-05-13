@@ -1,0 +1,18 @@
+{
+  "name": "cordova-plugin-fastrde-checkgps",
+  "version": "0.9.9",
+  "description": "Plugin to Check if GPS enabled on iOS and Android",
+  "cordova": {
+    "id": "cordova-plugin-fastrde-checkgps",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
